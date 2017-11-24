@@ -39,11 +39,16 @@ Snapshot:
 
 # Blemishes on near perfection: 
 
-1.  At 0:16 it identifies that woman as a horse.  Confusing two people next to each other as a single animal.
+1.  At 0.02 it identifies a traffic cone as a fire hydrant. 
 
-2.  A man is holding some kind of greyish round object which is classified as a frisbee, is not a frisbee. 
+2.  At 0:16 it identifies that woman as a horse.  Confusing two people next to each other as a single animal.
+
+3.  A man is holding some kind of greyish oval object which is classified as a frisbee, is not a frisbee. 
 
 
+# Undergirding code: 
+
+https://github.com/sentientmachine/faster_rcnn
 
 
 
