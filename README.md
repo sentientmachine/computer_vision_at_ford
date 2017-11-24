@@ -12,6 +12,13 @@ Source Video without classifications: https://www.youtube.com/watch?v=u68EWmtKZw
 
 Backup mp4 if above video goes down: machinesentience.com/videos/Walking_tour_of_Times_Square_in_Midtown_Manhattan_New_York_City.mp4
 
+# Blurb:
+
+This is a state of the art object detection framework called Faster R-CNN described here https://arxiv.org/abs/1506.01497 using tensorflow.  Here is my website http://deepython.com if you want to see other projects!
+
+I took the following video and fed it through Tensorflow Faster R-CNN model, this isn't running on an embedded device yet. 
+
+
 # Whitepaper
 
 Whitepaper Link: https://arxiv.org/pdf/1506.01497.pdf
