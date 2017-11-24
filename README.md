@@ -1,4 +1,4 @@
-# computer_vision_at_ford, Youtube video Demo:
+# Youtube video Demo:
 
 https://www.youtube.com/watch?v=ERglPgx8wFg
 
@@ -6,6 +6,11 @@ https://www.youtube.com/watch?v=ERglPgx8wFg
 
 Backup mp4 if above video goes down: 
 machinesentience.com/videos/Computer_Vision_Systems_Walk_Through_Times_Square.mp4
+
+
+Source Video without classifications: https://www.youtube.com/watch?v=u68EWmtKZw0
+
+Backup mp4 if above video goes down: machinesentience.com/videos/Walking_tour_of_Times_Square_in_Midtown_Manhattan_New_York_City.mp4
 
 # Whitepaper
 
