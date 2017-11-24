@@ -11,5 +11,7 @@ machinesentience.com/videos/Computer_Vision_Systems_Walk_Through_Times_Square.mp
 
 Whitepaper Link: https://arxiv.org/pdf/1506.01497.pdf
 
-Whitepaper Local Backup Link: ![Alt text](././Faster_R_CNN_Towards_Real_Time_Object_Detection_with_Region_Proposal_Networks.pdf "") 
+Whitepaper Local Backup Link: 
+
+![Alt text](./Faster_R_CNN_Towards_Real_Time_Object_Detection_with_Region_Proposal_Networks.pdf "") 
 
