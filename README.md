@@ -25,6 +25,12 @@ Snapshot:
 <a href="./deepython.pdf">./deepython.pdf</a>
 
 
+# Blemishes on near perfection: 
+
+1.  At 0:16 it identifies that woman as a horse.  Confusing two people next to each other as a single animal.
+
+2.  A man is holding some kind of greyish round object which is classified as a frisbee, is not a frisbee. 
+
 
 
 
