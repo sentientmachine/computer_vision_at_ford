@@ -13,11 +13,11 @@ Whitepaper Link: https://arxiv.org/pdf/1506.01497.pdf
 
 Whitepaper Local Backup Link: <a href="./Faster_R_CNN_Towards_Real_Time_Object_Detection_with_Region_Proposal_Networks.pdf">./Faster_R_CNN_Towards_Real_Time_Object_Detection_with_Region_Proposal_Networks.pdf</a>
 
-# Author's github:
+# Author's linkedin, github, website:
+
+https://www.linkedin.com/in/claytonblythe/
 
 https://github.com/claytonblythe/
-
-# Author's website: 
 
 http://deepython.com/
 
