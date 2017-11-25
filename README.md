@@ -1,4 +1,11 @@
-# Youtube video Demo:
+# Blurb:
+
+This is a state of the art object detection framework called Faster R-CNN described here https://arxiv.org/abs/1506.01497 using tensorflow.  Here is my website http://deepython.com if you want to see other projects!
+
+I took the following video and fed it through Tensorflow Faster R-CNN model, this isn't running on an embedded device yet. 
+
+
+# Youtube DEMO:
 
 https://www.youtube.com/watch?v=ERglPgx8wFg
 
@@ -12,11 +19,6 @@ Source Video without classifications: https://www.youtube.com/watch?v=u68EWmtKZw
 
 Backup mp4 if above video goes down: machinesentience.com/videos/Walking_tour_of_Times_Square_in_Midtown_Manhattan_New_York_City.mp4
 
-# Blurb:
-
-This is a state of the art object detection framework called Faster R-CNN described here https://arxiv.org/abs/1506.01497 using tensorflow.  Here is my website http://deepython.com if you want to see other projects!
-
-I took the following video and fed it through Tensorflow Faster R-CNN model, this isn't running on an embedded device yet. 
 
 
 # Whitepaper
@@ -36,8 +38,11 @@ http://deepython.com/
 Snapshot: 
 <a href="./deepython.pdf">./deepython.pdf</a>
 
+# Strengths
 
-# Blemishes on near perfection: 
+Flawless and sub-pixel perfect box overlays around correctly classified objects such as cars and people.
+
+# Weaknesses and Blemishes on near perfection: 
 
 1.  At 0.02 it identifies a traffic cone as a fire hydrant. 
 
@@ -45,6 +50,9 @@ Snapshot:
 
 3.  A man is holding some kind of greyish oval object which is classified as a frisbee, is not a frisbee. 
 
+# How many frames per second using the tuned model
+
+5 frames per second using a desktop with a GPU.
 
 # Undergirding code: 
 
