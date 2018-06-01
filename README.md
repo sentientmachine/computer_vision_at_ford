@@ -5,6 +5,12 @@ This is a state of the art object detection framework called Faster R-CNN descri
 I took the following video and fed it through Tensorflow Faster R-CNN model, this isn't running on an embedded device yet. 
 
 
+Alternative Vehicle dataset for road driving:
+https://www.reddit.com/r/MachineLearning/comments/8ns7vv/n_uc_berkeley_opensources_100k_driving_video/
+
+https://medium.com/@Synced/uc-berkeley-open-sources-100k-driving-video-database-dce09ff7cf78
+
+
 # Youtube DEMO:
 
 https://www.youtube.com/watch?v=ERglPgx8wFg
